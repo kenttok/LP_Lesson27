@@ -12,6 +12,7 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 1 packets transmitted, 1 received, 0% packet loss, time 0ms
 rtt min/avg/max/mdev = 53.096/53.096/53.096/0.000 ms
+
 vagrant@office1Server:~$ ping 192.168.0.2
 PING 192.168.0.2 (192.168.0.2) 56(84) bytes of data.
 64 bytes from 192.168.0.2: icmp_seq=1 ttl=63 time=0.829 ms
@@ -20,6 +21,7 @@ PING 192.168.0.2 (192.168.0.2) 56(84) bytes of data.
 --- 192.168.0.2 ping statistics ---
 2 packets transmitted, 2 received, 0% packet loss, time 1001ms
 rtt min/avg/max/mdev = 0.806/0.817/0.829/0.011 ms
+
 vagrant@office1Server:~$ ping 192.168.1.2
 PING 192.168.1.2 (192.168.1.2) 56(84) bytes of data.
 64 bytes from 192.168.1.2: icmp_seq=1 ttl=63 time=0.829 ms
