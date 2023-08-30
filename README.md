@@ -1,5 +1,5 @@
 **Теоретическая часть (bold)**
-![image](https://user-images.githubusercontent.com/69b-e68d985f63c9.png)
+Таблица сетей _[Network](Network.png)_
 
 **Техническая часть (bold)**
 
